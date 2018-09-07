@@ -1,6 +1,6 @@
 ## ESLint | Prettier setup one time setup
 
-##### I compiled this instruction set from various documentation as a simplified means to quickly set-up something that works in VSCode. **_- CZ_**
+#### I compiled this instruction set from various documentation as a simplified means to quickly set-up something that works in VSCode. **_- CZ_**
 
 Customize AirBnB's styles to teams platform and code needs. No further configuration required.
 
