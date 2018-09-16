@@ -8,6 +8,6 @@ module.exports = {
         vars: 'local',
         args: 'none'
       }
-    // ]
+    ]
   },
 };
