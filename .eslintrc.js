@@ -8,6 +8,8 @@ module.exports = {
         vars: 'local',
         args: 'none'
       }
-    ]
+    ],
+    'func-names': ['error', 'never'],
+    'no-console': 0,
   },
 };
